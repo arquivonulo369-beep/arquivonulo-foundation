@@ -1,0 +1,10 @@
+ArquivoNulo Global Whitepaper v2.0 (Canonical EN)
+Commit: a6ca401
+Algorithm: SHA3-384
+
+Hash:
+6cc36ebe890ef4b3eee5787ddd49f7ae5e3a8c7897dff02efa068d221bddbf6a99f5aa6acedd670d09161f6caa244b3a
+
+Generated: 2026-03-03
+Encoding: UTF-8 (LF normalized)
+
