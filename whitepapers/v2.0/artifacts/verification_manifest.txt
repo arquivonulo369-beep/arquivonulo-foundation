@@ -1,0 +1,20 @@
+ArquivoNulo Global — Verification Manifest
+Artifact: ArquivoNulo_Global_Whitepaper_v2.0_EN.pdf
+
+Primary Secure Trust Hash (STH)
+Algorithm: SHA3-384
+Value:
+ffe902fbcf57a1ea8bfc0e2bea844534ac4253559d5e97961f265e27e72a5bc15c27b9185bbc45b39cbe7dfe59794ca9
+
+Legacy Hash (historical compatibility)
+Algorithm: SHA-256
+Value:
+e0251f452e0d6d1bea5982e7980547275aefad7e448a80d656da046b7206abdd
+
+Signature
+Algorithm: Ed25519
+File:
+ArquivoNulo_Global_Whitepaper_v2.0_EN.pdf.sig
+
+Standardization Note:
+All Secure Trust Hashes issued after 20-02-2026 must use SHA3-384.
