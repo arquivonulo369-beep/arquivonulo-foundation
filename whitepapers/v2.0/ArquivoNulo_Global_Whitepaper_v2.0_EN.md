@@ -129,5 +129,29 @@ Compliance auditing is independently verifiable and offline.
 No claim of absolute security is made.
 The system guarantees mathematical conformity to the defined structural model.
 
+8. Verification Procedure
+
+To independently verify the canonical artifact:
+
+1. Obtain the official PDF release.
+2. Compute its SHA3-384 hash:
+
+   openssl dgst -sha3-384 ArquivoNulo_Global_Whitepaper_v2.0_EN.pdf
+
+3. Compare the result with the published canonical hash.
+4. Verify Git tag v2.0 and associated commit hash.
+5. (Optional) Verify Ed25519 signature using the published public key.
+
+Verification is purely mathematical and can be performed offline.
+
+9. Canonical Artifact Metadata
+
+Canonical Version: v2.0
+Language: English
+Encoding: UTF-8 (LF normalized)
+Hash Algorithm: SHA3-384
+Git Root Commit: a6ca401
+Release Date: 2026-03-04
+
 End of Master Text — v2.0 (Canonical EN)
 

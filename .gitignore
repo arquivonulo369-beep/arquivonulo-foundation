@@ -1,0 +1,7 @@
+# Private keys
+keys/*ed25519
+!keys/*.pub
+
+# local builds
+*.html
+

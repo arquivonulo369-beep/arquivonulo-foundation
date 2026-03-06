@@ -1,0 +1,1 @@
+SHA3-384(ArquivoNulo_Global_Whitepaper_v2.0_EN.html)= 8b3928d21ed30ea9a6e3461b525153b65ccca2dd85928b0cfa6754d68630dc5b9c6061a4747effe4113fd59d4ebe0f70
