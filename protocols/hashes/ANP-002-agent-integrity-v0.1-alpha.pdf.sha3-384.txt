@@ -1,0 +1,1 @@
+SHA3-384(protocols/final/ANP-002-agent-integrity-v0.1-alpha.pdf)= e951c622f33e2989997a0097853fb48aa75a4e9e63dc132e7fe2b3d2793171563c696ae3e11ef95c0c4cd8564a39fdaf
