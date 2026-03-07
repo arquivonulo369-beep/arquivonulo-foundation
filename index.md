@@ -14,6 +14,18 @@ ArquivoNulo Integrity Protocol.
 
 ---
 
+## Protocol Series
+
+### ANP-001 — Deterministic State Stasis Protocol
+Base deterministic state anchoring and stasis validation layer.
+
+### ANP-002 — Agent Integrity Protocol (Draft v0.1-alpha)
+Cryptographic integrity layer for autonomous agents using Zero-Knowledge Proofs.
+
+• Draft: protocols/drafts/ANP-002-agent-integrity.md  
+• Integrity Seal (SHA3-384): protocols/hashes/ANP-002-agent-integrity.sha3-384.txt  
+• Permanent Archive: https://archive.org/details/anp-002-agent-integrity-protocol-v0-1-alpha
+
 ## Governance
 
 - [Foundation Charter](FOUNDATION_CHARTER.md)
