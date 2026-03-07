@@ -20,6 +20,16 @@ Hash Policy: SHA3-384
 
 ---
 
+### ANIP-0002
+
+Title: Secure Trust Hash Standard  
+Status: Draft  
+Location: specifications/ANIP-0002.md
+
+Defines the canonical cryptographic hashing mechanism used by
+ArquivoNulo artifacts and protocol components.
+
+
 ## Reserved Specification Numbers
 
 ANIP-0002
@@ -35,3 +45,4 @@ Protocol evolution follows the governance model defined in:
 governance/
 
 All changes must preserve deterministic verification and canonical integrity.
+
