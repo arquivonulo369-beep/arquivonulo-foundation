@@ -42,17 +42,13 @@ ArquivoNulo Integrity Protocol.
 
 ## Registry
 
-Protocol registry directory:
-
-`registry/`
+- [Protocol Registry](registry/)
 
 ---
 
 ## Whitepapers
 
-Whitepaper archive:
-
-`whitepapers/`
+- [Whitepaper Archive](whitepapers/)
 
 ---
 
