@@ -7,36 +7,52 @@ ArquivoNulo Integrity Protocol.
 
 ## Protocol Documents
 
-- PROTOCOL_MANIFEST.md
-- RELEASES.md
-- HISTORY.md
-- ROADMAP.md
+- [Protocol Manifest](PROTOCOL_MANIFEST.md)
+- [Releases](RELEASES.md)
+- [History](HISTORY.md)
+- [Roadmap](ROADMAP.md)
 
 ---
 
 ## Governance
 
-- FOUNDATION_CHARTER.md
-- GOVERNANCE.md
-- ANIP_PROCESS.md
+- [Foundation Charter](FOUNDATION_CHARTER.md)
+- [Governance](GOVERNANCE.md)
+- [ANIP Process](ANIP_PROCESS.md)
 
 ---
 
 ## Security
 
-- SECURITY.md
+- [Security Policy](SECURITY.md)
+
+---
+
+## Specifications
+
+- [Protocol Specifications](SPECIFICATIONS.md)
+
+---
+
+## Verification
+
+- [Verification Guide](VERIFY.md)
 
 ---
 
 ## Registry
 
-- registry/
+Protocol registry directory:
+
+`registry/`
 
 ---
 
 ## Whitepapers
 
-- whitepapers/
+Whitepaper archive:
+
+`whitepapers/`
 
 ---
 
