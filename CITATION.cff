@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+title: ArquivoNulo Integrity Protocol
+message: "If you use this protocol or reference its architecture, please cite it as below."
+type: software
+
+authors:
+  - family-names: Monteiro
+    given-names: Eduardo
+    affiliation: ArquivoNulo Global
+
+repository-code: https://github.com/arquivonulo369-beep/arquivonulo-foundation
+
+abstract: >
+  ArquivoNulo is a deterministic integrity protocol designed to provide
+  verifiable execution governance for agentic and distributed systems.
+
+keywords:
+  - ai governance
+  - deterministic systems
+  - protocol architecture
+  - cryptographic verification
+
+license: MIT
+
+version: "2.0"
+
+date-released: 2026
+
