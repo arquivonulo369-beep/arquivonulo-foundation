@@ -22,22 +22,21 @@ Base deterministic state anchoring and stasis validation layer.
 ---
 
 ### ANP-002 — Agent Integrity Protocol (Draft v0.1-alpha)
-
 Deterministic integrity layer for autonomous agents with zero-knowledge validation.
 
-**Artifacts**
+#### Artifacts
 
-- Draft Specification  
-  `protocols/drafts/ANP-002-agent-integrity.md`
+**Draft Specification**  
+protocols/drafts/ANP-002-agent-integrity.md
 
-- Canonical Paper (PDF)  
-  `protocols/final/ANP-002-agent-integrity-v0.1-alpha.pdf`
+**Canonical Institutional Paper (PDF)**  
+protocols/final/ANP-002-agent-integrity-v0.1-alpha.pdf
 
-- Integrity Seal (SHA3-384)  
-  `protocols/hashes/ANP-002-agent-integrity-v0.1-alpha.pdf.sha3-384.txt`
+**Integrity Seal (SHA3-384)**  
+protocols/hashes/ANP-002-agent-integrity-v0.1-alpha.pdf.sha3-384.txt
 
-- Permanent Archive  
-  https://archive.org/details/anp-002-agent-integrity-protocol-v0-1-alpha
+**Permanent Archive — Canonical Paper (PDF)**  
+https://archive.org/details/anp-002-agent-integrity-v-0.1-alpha
 
 ---
 
@@ -76,6 +75,13 @@ Deterministic integrity layer for autonomous agents with zero-knowledge validati
 ## Whitepapers
 
 - [Whitepaper Archive](whitepapers/)
+
+---
+
+## Portal
+
+Official Documentation Portal:  
+https://arquivonulo369-beep.github.io/arquivonulo-foundation/
 
 ---
 
