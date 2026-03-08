@@ -5,7 +5,7 @@ ArquivoNulo Integrity Protocol.
 
 ---
 
-## Protocol Documents
+## 📄 Protocol Documents
 
 - [Protocol Manifest](PROTOCOL_MANIFEST.md)
 - [Releases](RELEASES.md)
@@ -14,7 +14,7 @@ ArquivoNulo Integrity Protocol.
 
 ---
 
-## Protocol Series
+## 🧩 Protocol Series
 
 ### ANP-001 — Deterministic State Stasis Protocol
 Base deterministic state anchoring and stasis validation layer.
@@ -24,23 +24,23 @@ Base deterministic state anchoring and stasis validation layer.
 ### ANP-002 — Agent Integrity Protocol (Draft v0.1-alpha)
 Deterministic integrity layer for autonomous agents with zero-knowledge validation.
 
-#### Artifacts
+#### 📦 Artifacts
 
-**Draft Specification**  
-protocols/drafts/ANP-002-agent-integrity.md
+- **Draft Specification**  
+  [Markdown Version](protocols/drafts/ANP-002-agent-integrity.md)
 
-**Canonical Institutional Paper (PDF)**  
-protocols/final/ANP-002-agent-integrity-v0.1-alpha.pdf
+- **Canonical Institutional Paper (PDF)**  
+  [Download PDF](protocols/final/ANP-002-agent-integrity-v0.1-alpha.pdf)
 
-**Integrity Seal (SHA3-384)**  
-protocols/hashes/ANP-002-agent-integrity-v0.1-alpha.pdf.sha3-384.txt
+- **Integrity Seal (SHA3-384)**  
+  [Hash File](protocols/hashes/ANP-002-agent-integrity-v0.1-alpha.pdf.sha3-384.txt)
 
-**Permanent Archive — Canonical Paper (PDF)**  
-https://archive.org/details/anp-002-agent-integrity-v-0.1-alpha
+- **Permanent Archive — Canonical Paper (PDF)**  
+  https://archive.org/details/anp-002-agent-integrity-v-0.1-alpha
 
 ---
 
-## Governance
+## 🏛 Governance
 
 - [Foundation Charter](FOUNDATION_CHARTER.md)
 - [Governance](GOVERNANCE.md)
@@ -48,45 +48,45 @@ https://archive.org/details/anp-002-agent-integrity-v-0.1-alpha
 
 ---
 
-## Security
+## 🔐 Security
 
 - [Security Policy](SECURITY.md)
 
 ---
 
-## Specifications
+## 📐 Specifications
 
 - [Protocol Specifications](SPECIFICATIONS.md)
 
 ---
 
-## Verification
+## ✔ Verification
 
 - [Verification Guide](VERIFY.md)
 
 ---
 
-## Registry
+## 🗂 Registry
 
 - [Protocol Registry](registry/)
 
 ---
 
-## Whitepapers
+## 📚 Whitepapers
 
 - [Whitepaper Archive](whitepapers/)
 
 ---
 
-## Portal
+## 🌐 Portal
 
-Official Documentation Portal:  
+**Official Documentation Portal**  
 https://arquivonulo369-beep.github.io/arquivonulo-foundation/
 
 ---
 
-## Archive Proof
+## 🧾 Archive Proof
 
-Internet Archive snapshot:  
+**Internet Archive snapshot**  
 https://web.archive.org/web/20260307120538/https://github.com/arquivonulo369-beep/arquivonulo-foundation
 
