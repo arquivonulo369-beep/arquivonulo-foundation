@@ -1,0 +1,133 @@
+{
+  "protocol": {
+    "id": "ANP-003",
+    "title": "Execution Ledger Protocol",
+    "series": "ANP Canonical Protocols",
+    "version": "v0.1-alpha",
+    "status": "Draft",
+    "classification": "Digital Governance Infrastructure",
+    "publisher": {
+      "organization": "ArquivoNulo Global",
+      "authority": "ANP Canonical Signing Authority",
+      "jurisdiction": "Global"
+    },
+    "authorship": {
+      "creator": "ArquivoNulo Global",
+      "created": "2026-03-08",
+      "language": "en"
+    }
+  },
+
+  "purpose": {
+    "mission": "Establish a verifiable, tamper-evident execution ledger for protocol actions and governance events.",
+    "scope": [
+      "Protocol execution traceability",
+      "Integrity preservation",
+      "Non-repudiation of actions",
+      "Public auditability"
+    ]
+  },
+
+  "governance": {
+    "model": "Open Public Infrastructure",
+    "change_control": "Canonical versioning with cryptographic sealing",
+    "review_policy": "Public peer visibility",
+    "release_policy": "Signed canonical tags"
+  },
+
+  "technical_specification": {
+    "ledger_model": "Append-only event registry",
+    "data_structure": "Cryptographically chained records",
+    "interoperability": "Platform agnostic",
+    "serialization_formats": ["Markdown", "PDF", "JSON"],
+    "time_standard": "UTC",
+    "identity_standard": "OpenPGP"
+  },
+
+  "integrity_framework": {
+    "hashing": {
+      "algorithm": "SHA3-384",
+      "purpose": "Content integrity seal"
+    },
+    "digital_signatures": {
+      "document_signature": {
+        "standard": "OpenPGP",
+        "algorithm": "RSA-4096",
+        "purpose": "Document integrity and authorship"
+      },
+      "authority_signature": {
+        "standard": "OpenPGP",
+        "algorithm": "Ed25519",
+        "purpose": "Canonical authority validation"
+      }
+    },
+    "verification": {
+      "independent_validation": true,
+      "public_reproducibility": true
+    }
+  },
+
+  "artifacts": {
+    "source_markdown": {
+      "path": "protocols/ANP-003/ANP-003.md",
+      "role": "Human-readable canonical source"
+    },
+    "canonical_pdf": {
+      "path": "protocols/ANP-003/ANP-003.pdf",
+      "role": "Publication-grade immutable format"
+    },
+    "machine_readable_spec": {
+      "path": "protocols/ANP-003/ANP-003.json",
+      "role": "Structured interoperability layer"
+    },
+    "checksums": [
+      {
+        "file": "checksum/ANP-003.sha3-384.txt",
+        "algorithm": "SHA3-384"
+      }
+    ],
+    "signatures": [
+      {
+        "file": "signatures/ANP-003.sig",
+        "type": "Detached signature",
+        "algorithm": "RSA-4096"
+      },
+      {
+        "file": "signatures/ANP-003.pdf.ed25519.sig",
+        "type": "Detached signature",
+        "algorithm": "Ed25519"
+      }
+    ]
+  },
+
+  "repository": {
+    "visibility": "Public",
+    "branch_model": "main",
+    "integrity_manifest": "REPOSITORY_INTEGRITY.sha3-384.txt"
+  },
+
+  "compliance": {
+    "auditability": "Full public verification",
+    "tamper_evidence": "Cryptographic sealing",
+    "long_term_preservation": "Distributed archival strategy"
+  },
+
+  "lifecycle": {
+    "current_phase": "Alpha",
+    "next_milestone": "v0.2 public review",
+    "deprecation_policy": "Immutable historical versions"
+  },
+
+  "registry": {
+    "canonical_id": "anp-003",
+    "namespace": "arquivonulo.protocols",
+    "discovery_keywords": [
+      "digital governance",
+      "execution ledger",
+      "protocol integrity",
+      "cryptographic registry",
+      "public infrastructure"
+    ]
+  }
+}
+
