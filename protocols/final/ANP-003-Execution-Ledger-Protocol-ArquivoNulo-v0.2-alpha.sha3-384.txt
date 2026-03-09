@@ -1,0 +1,1 @@
+SHA3-384(protocols/final/ANP-003-Execution-Ledger-Protocol-ArquivoNulo-v0.2-alpha.pdf)= 5eab9b0deb3e8b59742294bad0893be408b8539a27970d5ecd9e5f86422b3874f1042d4fa5520e759f9e5eefb6322f08
