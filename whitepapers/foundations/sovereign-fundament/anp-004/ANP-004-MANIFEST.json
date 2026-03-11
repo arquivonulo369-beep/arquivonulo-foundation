@@ -1,7 +1,7 @@
 {
   "artifact": {
     "id": "ANP-004-MASTER-RELEASE",
-    "title": "Multi-Agent Coordination & Sovereign Ecosystem",
+    "title": "ANP-004 — Multi-Agent Coordination & Sovereign Ecosystem",
     "series": "ArquivoNulo Integrity Protocol (ANP Series)",
     "version": "1.0.0-alpha",
     "status": "Canonical Release & Roadmap Anchor",
@@ -9,40 +9,49 @@
     "institution": "ArquivoNulo Global",
     "lineage": ["ANP-001", "ANP-002", "ANP-003", "ANP-004"]
   },
-
-  "technical_scope": {
+  "executive_scope": {
+    "mission": "Deterministic coordination across distributed multi-agent systems",
     "core_mechanism": "Aggregate Commit Boundary (ACB)",
     "governance_model": "Deterministic Runtime Governance",
-    "coordination_domain": "Distributed Multi-Agent Systems"
+    "admissibility_model": "Pre-execution Structural Validation"
   },
-
+  "technical_scope": {
+    "coordination_domain": "Distributed Systems",
+    "consensus_model": "Proof of Alignment",
+    "state_validation": "Deterministic Admissibility",
+    "enforcement_layer": "Runtime Structural Constraints"
+  },
   "cryptographic_profile": {
     "hash_algorithm": "SHA3-384",
     "signature_algorithm": "Ed25519",
     "hash_manifest": "SHA3-384SUMS",
     "signature_file": "SHA3-384SUMS.asc",
-    "verification": "gpg --verify SHA3-384SUMS.asc SHA3-384SUMS"
+    "pdf_hash_manifest": "PDF-SHA3-384SUMS",
+    "pdf_signature_file": "PDF-SHA3-384SUMS.asc",
+    "verification_command": "gpg --verify SHA3-384SUMS.asc SHA3-384SUMS"
   },
-
   "artifacts": [
+    "ANP-004-Canonical-Release.pdf",
     "README.md",
     "CRYPTOGRAPHIC-PROFILE.md",
     "ANP-004-VERIFIER.sh",
     "ANP-004_Architectural-Continuity-Diagram_v1.0.jpg",
     "SHA3-384SUMS",
-    "SHA3-384SUMS.asc"
+    "SHA3-384SUMS.asc",
+    "PDF-SHA3-384SUMS",
+    "PDF-SHA3-384SUMS.asc"
   ],
-
   "compliance": {
     "integrity_model": "Cryptographically Verifiable Infrastructure",
     "admissibility_rule": "States are admitted only via deterministic proof",
-    "trust_model": "Institutional Signature Authority"
+    "trust_model": "Institutional Signature Authority",
+    "verification_mode": "Open Technical Auditability"
   },
-
   "roadmap_anchor": {
-    "ANP-005": "Persistent State Integrity (Memory Sovereignty)",
-    "ANP-006": "Temporal Consensus (Deterministic Timing)",
-    "ANP-007": "Sovereign Network Admissibility (Final Gate)"
-  }
+    "ANP-005": "Persistent State Integrity (Memory Sovereignty via Merkle Mountain Ranges)",
+    "ANP-006": "Temporal Consensus (Deterministic Timing via VDFs)",
+    "ANP-007": "Sovereign Network Admissibility (Authenticated Network Gate)"
+  },
+  "institutional_statement": "Infrastructure is Destiny. Choose the Fundament."
 }
 
