@@ -1,0 +1,48 @@
+{
+  "artifact": {
+    "id": "ANP-004-MASTER-RELEASE",
+    "title": "Multi-Agent Coordination & Sovereign Ecosystem",
+    "series": "ArquivoNulo Integrity Protocol (ANP Series)",
+    "version": "1.0.0-alpha",
+    "status": "Canonical Release & Roadmap Anchor",
+    "author": "Eduardo Monteiro",
+    "institution": "ArquivoNulo Global",
+    "lineage": ["ANP-001", "ANP-002", "ANP-003", "ANP-004"]
+  },
+
+  "technical_scope": {
+    "core_mechanism": "Aggregate Commit Boundary (ACB)",
+    "governance_model": "Deterministic Runtime Governance",
+    "coordination_domain": "Distributed Multi-Agent Systems"
+  },
+
+  "cryptographic_profile": {
+    "hash_algorithm": "SHA3-384",
+    "signature_algorithm": "Ed25519",
+    "hash_manifest": "SHA3-384SUMS",
+    "signature_file": "SHA3-384SUMS.asc",
+    "verification": "gpg --verify SHA3-384SUMS.asc SHA3-384SUMS"
+  },
+
+  "artifacts": [
+    "README.md",
+    "CRYPTOGRAPHIC-PROFILE.md",
+    "ANP-004-VERIFIER.sh",
+    "ANP-004_Architectural-Continuity-Diagram_v1.0.jpg",
+    "SHA3-384SUMS",
+    "SHA3-384SUMS.asc"
+  ],
+
+  "compliance": {
+    "integrity_model": "Cryptographically Verifiable Infrastructure",
+    "admissibility_rule": "States are admitted only via deterministic proof",
+    "trust_model": "Institutional Signature Authority"
+  },
+
+  "roadmap_anchor": {
+    "ANP-005": "Persistent State Integrity (Memory Sovereignty)",
+    "ANP-006": "Temporal Consensus (Deterministic Timing)",
+    "ANP-007": "Sovereign Network Admissibility (Final Gate)"
+  }
+}
+
